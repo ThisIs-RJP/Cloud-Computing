@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/What is Cloud Computing/Types of Cloud Computing.md",
+                "file": "AWS/What is Cloud Computing/Quick Note of the AWS Console.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/What is Cloud Computing/Types of Cloud Computing.md",
+                "file": "AWS/What is Cloud Computing/Quick Note of the AWS Console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/What is Cloud Computing/Types of Cloud Computing.md",
+                "file": "AWS/What is Cloud Computing/Quick Note of the AWS Console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/What is Cloud Computing/Types of Cloud Computing.md"
+                "file": "AWS/What is Cloud Computing/Quick Note of the AWS Console.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "69cd9a5f5402c8ea",
   "lastOpenFiles": [
-    "AWS/What is Cloud Computing/Cloud Computing.md",
     "AWS/What is Cloud Computing/Types of Cloud Computing.md",
+    "AWS/What is Cloud Computing/Quick Note of the AWS Console.md",
+    "AWS/What is Cloud Computing/Cloud Computing.md",
     "Data Centers/Data Center Introduction.md",
     "AWS/What is Cloud Computing",
     "AWS",
