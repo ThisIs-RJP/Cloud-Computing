@@ -79,6 +79,9 @@
 - Many AWS services (e.g Rekognition for Machine Learning)
 - Google Apps (Gmail)m Dropbox, Zoom
 
+![[Pasted image 20240813150429.png]]
+
+![[Pasted image 20240813150626.png]]
 
 #### Pricing of the Cloud
 
